@@ -1,0 +1,6 @@
+/* Tailwind is loaded via CDN in index.html to avoid build complexity without postcss config */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+}
